@@ -1,0 +1,14 @@
+layout_spectrum: 0.005791259463876486
+typography_spectrum: 0.4573086572345346
+color:
+  brandStrength: 0.22712183697149158
+  lightness: 0.9518727255053818
+  saturation: 0.07159796147607267
+  rhythmicContrast: 0.10598881519399583
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: secured
